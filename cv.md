@@ -2,7 +2,7 @@
 
 ### Desired position and salary:
 
-**Junior Frontend Developer, 1000$**
+**Junior Frontend Developer, 1500$**
 
 ### About myself:
 My name is Maria, I am 24 years old, I live in St. Petersburg.
