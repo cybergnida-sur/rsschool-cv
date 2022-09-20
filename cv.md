@@ -44,3 +44,7 @@ In 2020, she entered the Don State Technological University for the specialty "C
 * excellent Russian,
 * analytical mindset,
 * responsibility.
+
+### Courses:
+* JavaScript course - Stepic, Yandex Practicum,
+* IT recruiter - Yandex Practicum.
