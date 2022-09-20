@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cybergnida-sur.github.io/rsschool-cv/cv
